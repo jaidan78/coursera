@@ -37,13 +37,9 @@
     background-color: lightpink;  
   } 
   
-  h3 {
+  .separador {
+    height: 20px;
     
-    
-    font-size: 1em;
-    text-align: center;
-    margin-left: 0;
-    margin-right: 0;
     
   }
   
