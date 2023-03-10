@@ -37,6 +37,14 @@
     background-color: lightpink;  
   } 
   
+  .beef {
+    background-color: cd716b;
+  }
+  
+  .sushi {
+    background-color: #fdf6e7;  
+  }
+  
   .separador {
     height: 20px;
 }
